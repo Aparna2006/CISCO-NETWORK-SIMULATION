@@ -49,4 +49,4 @@ This repository is a curated collection of Cisco Packet Tracer labs and simulati
 This repository is a practical portfolio of networking labs created by **Aparnaa Kondiparthy**. It is intended for students and professionals who want a structured, project-based way to learn Cisco network configuration, security, and troubleshooting within Packet Tracer.
 
 ### Author
-- **Aparnaa Kondiparthy**
+- **Aparna Kondiparthy**
