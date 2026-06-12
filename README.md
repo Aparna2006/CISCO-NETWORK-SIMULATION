@@ -1,6 +1,6 @@
 # CISCO-NETWORK-SIMULATION
 
-## Cisco Packet Tracer Projects by Aparnaa Kondiparthy
+## Cisco Packet Tracer Projects by Aparna Kondiparthy
 
 ### About this repository
 This repository is a curated collection of Cisco Packet Tracer labs and simulations created by **Aparnaa Kondiparthy** for practical networking learning and certification preparation. It covers essential Cisco routing, switching, and security topics through hands-on Packet Tracer scenarios.
